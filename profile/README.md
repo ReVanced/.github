@@ -1,10 +1,15 @@
 # ❤ ReVanced Contributors
 
-This is a list of contributors of [ReVanced](revanced.app).
+This is a list of contributors of [ReVanced](https://revanced.app).
 
-| 🔻 Project | ❤ Contributors |
-| :---: | --- |
-| 💉 ReVanced Patcher | <a href="https://github.com/revanced/revanced-patcher/graphs/contributors"><img src="https://contrib.rocks/image?repo=revanced/revanced-patcher"/></a> |
-| 🧩 ReVanced Patches | <a href="https://github.com/revanced/revanced-patches/graphs/contributors"><img src="https://contrib.rocks/image?repo=revanced/revanced-patches"/></a> |
-| 💻 ReVanced CLI  | <a href="https://github.com/revanced/revanced-cli/graphs/contributors"><img src="https://contrib.rocks/image?repo=revanced/revanced-cli"/></a> |
-| 🔩 ReVanced Integrations | <a href="https://github.com/revanced/revanced-integrations/graphs/contributors"><img src="https://contrib.rocks/image?repo=revanced/revanced-integrations"/></a> |
+[revanced-patcher]: https://contrib.rocks/image?repo=revanced/revanced-patcher
+[revanced-patches]: https://contrib.rocks/image?repo=revanced/revanced-patches
+[revanced-cli]: https://contrib.rocks/image?repo=revanced/revanced-cli
+[revanced-integrations]: https://contrib.rocks/image?repo=revanced/revanced-integrations
+
+|        🔻 Project        | ❤ Contributors                                                                                    |
+| :----------------------: | :------------------------------------------------------------------------------------------------ |
+|   💉 ReVanced Patcher    | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors)           |
+|   🧩 ReVanced Patches    | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
+|     💻 ReVanced CLI      | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
+| 🔩 ReVanced Integrations | [![revanced-integrations]](https://github.com/revanced/revanced-integrations/graphs/contributors) |
