@@ -1,4 +1,4 @@
-# ReVanced Socials
+# 📌 ReVanced Socials
 |        Name        | Link                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
 | Website | [revanced.app](https://revanced.app)
