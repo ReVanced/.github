@@ -12,7 +12,7 @@
 > If you find any socials that say they are ReVanced while they are not, please **report them and leave**. <br>
 > Beware of any fake channels, **they could be distributing malware!**
 
-# ❤ ReVanced Contributors
+# ♥️ ReVanced Contributors
 
 This is a list of contributors of [ReVanced](https://revanced.app).
 
