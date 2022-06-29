@@ -20,6 +20,7 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 [revanced-patches]: https://contrib.rocks/image?repo=revanced/revanced-patches
 [revanced-cli]: https://contrib.rocks/image?repo=revanced/revanced-cli
 [revanced-integrations]: https://contrib.rocks/image?repo=revanced/revanced-integrations
+[revanced-manager]: https://contrib.rocks/image?repo=revanced/revanced-manager
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
@@ -27,3 +28,4 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 |   🧩 ReVanced Patches    | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
 |     💻 ReVanced CLI      | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
 | 🔩 ReVanced Integrations | [![revanced-integrations]](https://github.com/revanced/revanced-integrations/graphs/contributors) |
+|    💊 ReVanced Manager   | [![revanced-manager]](https://github.com/revanced/revanced-manager/graphs/contributors)           |
