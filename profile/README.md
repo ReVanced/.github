@@ -24,8 +24,8 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
-|   💉 ReVanced Patcher    | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors)           |
-|   🧩 ReVanced Patches    | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
-|     💻 ReVanced CLI      | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
-| 🔩 ReVanced Integrations | [![revanced-integrations]](https://github.com/revanced/revanced-integrations/graphs/contributors) |
-|    💊 ReVanced Manager   | [![revanced-manager]](https://github.com/revanced/revanced-manager/graphs/contributors)           |
+|   💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher)    | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors)           |
+|   🧩 [ReVanced Patches](https://github.com/revanced/revanced-patches)    | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
+|     💻 [ReVanced CLI](https://github.com/revanced/revanced-cli)      | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
+| 🔩 [ReVanced Integrations](https://github.com/revanced/revanced-integrations) | [![revanced-integrations]](https://github.com/revanced/revanced-integrations/graphs/contributors) |
+|    💊 [ReVanced Manager](https://github.com/revanced/revanced-manager)   | [![revanced-manager]](https://github.com/revanced/revanced-manager/graphs/contributors)           |
