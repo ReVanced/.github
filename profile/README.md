@@ -1,3 +1,5 @@
+> Roadmap: [click here](https://github.com/orgs/revanced/projects/2).
+
 # 📌 ReVanced Socials
 
 [![ReVanced Website](https://user-images.githubusercontent.com/13122796/178031589-aa43db16-46b0-4b75-bff9-cc889fbfbb40.png)](https://revanced.app)
