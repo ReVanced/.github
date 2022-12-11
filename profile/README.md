@@ -1,4 +1,4 @@
-# 📌 ReVanced Socials
+# 📌 Socials
 
 [![ReVanced Website](https://user-images.githubusercontent.com/13122796/178031589-aa43db16-46b0-4b75-bff9-cc889fbfbb40.png)](https://revanced.app)
 <a href="https://github.com/revanced">
@@ -13,7 +13,7 @@
 [![ReVanced Twitter](https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png)](https://twitter.com/revancedapp)
 [![ReVanced YouTube](https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png)](https://www.youtube.com/c/ReVanced)
 
-# ♥️ ReVanced Contributors
+# ♥️ Contributors
 
 This is a list of contributors of [ReVanced](https://revanced.app).
 
@@ -34,3 +34,7 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 | 💊 [ReVanced Manager](https://github.com/revanced/revanced-manager) | [![revanced-manager]](https://github.com/revanced/revanced-manager/graphs/contributors) |
 | 🌐 [ReVanced Website](https://github.com/revanced/revanced-website) | [![revanced-website]](https://github.com/revanced/revanced-website/graphs/contributors)
 | 🚀 [ReVanced Releases API](https://github.com/revanced/revanced-releases-api) | [![revanced-releases-api]](https://github.com/revanced/revanced-releases-api/graphs/contributors)
+
+# 🤝 Donations
+
+<a href="https://liberapay.com/ReVanced/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
