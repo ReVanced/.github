@@ -13,7 +13,7 @@
 [![ReVanced Twitter](https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png)](https://twitter.com/revancedapp)
 [![ReVanced YouTube](https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png)](https://www.youtube.com/c/ReVanced)
 
-# ♥️ Contributors
+# ❤️ Contributors
 
 This is a list of contributors of [ReVanced](https://revanced.app).
 
@@ -25,7 +25,7 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 [revanced-website]: https://contrib.rocks/image?repo=revanced/revanced-website
 [revanced-releases-api]: https://contrib.rocks/image?repo=revanced/revanced-releases-api
 
-|        🔻 Project        | ❤ Contributors                                                                                    |
+|        ❤️ Project        |                                          ❤ Contributors                                           |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
 | 💻 [ReVanced CLI](https://github.com/revanced/revanced-cli) | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors) |
 | 💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher) | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors) |
@@ -38,3 +38,9 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 # 🤝 Donations
 
 <a href="https://liberapay.com/ReVanced/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+# ⚡ Supporters
+
+|      ❤️ Supporter       |         💌 Cause         |
+| :----------------------: | :----------------------: |
+| <a href="https://spheron.network"><img src="https://spheron.network/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspheron_dark.4a2a4084.svg&w=256&q=75" alt="Spheron"/></a> | Thanks to Spheron for free computing and hosting |
