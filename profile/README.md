@@ -35,12 +35,12 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 | 🌐 [ReVanced Website](https://github.com/revanced/revanced-website) | [![revanced-website]](https://github.com/revanced/revanced-website/graphs/contributors)
 | 🚀 [ReVanced Releases API](https://github.com/revanced/revanced-releases-api) | [![revanced-releases-api]](https://github.com/revanced/revanced-releases-api/graphs/contributors)
 
-# 🤝 Donations
-
-<a href="https://liberapay.com/ReVanced/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-
 # ⚡ Supporters
 
 |      ❤️ Supporter       |         💌 Cause         |
 | :----------------------: | :----------------------: |
 | <a href="https://spheron.network"><img src="https://spheron.network/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspheron_dark.4a2a4084.svg&w=256&q=75" alt="Spheron"/></a> | Thanks to Spheron for free computing and hosting |
+
+# 🤝 Donations
+
+<a href="https://liberapay.com/ReVanced/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
