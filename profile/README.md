@@ -39,7 +39,7 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 
 |      ❤️ Supporter       |         💌 Cause         |
 | :----------------------: | :----------------------: |
-<a href="https://spheron.network"><picture><source media="(prefers-color-scheme: dark)" srcset="https://spheron.network/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspheron_dark.4a2a4084.svg&w=256&q=75"><img alt="Switches logo between dark and light mode" src="https://blog.spheron.network/_next/static/media/logo.38a319d2.svg?imwidth=256"></picture></a> | Thanks to Spheron for free computing and hosting |
+<a href="https://spheron.network?utm_source=revanced&utm_medium=oss"><picture><source media="(prefers-color-scheme: dark)" srcset="https://spheron.network/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspheron_dark.4a2a4084.svg&w=256&q=75"><img alt="Switches logo between dark and light mode" src="https://blog.spheron.network/_next/static/media/logo.38a319d2.svg?imwidth=256"></picture></a> | Thanks to Spheron for free computing and hosting |
 
 # 🤝 Donations
 
