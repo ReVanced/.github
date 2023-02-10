@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://revanced.app/"><img height="24px" src="https://user-images.githubusercontent.com/13122796/178031589-aa43db16-46b0-4b75-bff9-cc889fbfbb40.png" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://revanced.app/"><img height="24px" src="https://user-images.githubusercontent.com/82371061/216141185-a6275edf-e595-45a8-98a3-33d5a8b14aae.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/revanced"><picture><source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png"><img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png"></picture></a>&nbsp;&nbsp;&nbsp;
     <a href="http://revanced.app/discord"><img height="24px" src="https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://reddit.com/r/revancedapp"><img height="24px" src="https://user-images.githubusercontent.com/13122796/178032351-9d9d5619-8ef7-470a-9eec-2744ece54553.png" /></a>&nbsp;&nbsp;&nbsp;
