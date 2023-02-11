@@ -40,5 +40,5 @@
 
 ## 🤝 Donations
 
-<a href="https://github.com/sponsors/ReVanced"><img height="28px" alt="Donate using GitHub" src="https://img.shields.io/badge/github%20sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors"></a>
+<a href="https://github.com/sponsors/ReVanced"><img height="28px" alt="Donate using GitHub" src="https://img.shields.io/badge/github%20sponsors-30363D?style=for-the-badge&logo=GitHub-Sponsors"></a>
 <a href="https://liberapay.com/ReVanced/donate"><img height="28px" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
