@@ -3,15 +3,15 @@
     <source
       width="256px"
       media="(prefers-color-scheme: dark)"
-      srcset="assets/revanced-headline/revanced-headline-vertical-dark.svg"
+      srcset="https://github.com/revanced/.github/raw/main/profile/assets/revanced-headline/revanced-headline-vertical-dark.svg"
     >
     <img 
-      src="assets/revanced-headline/revanced-headline-vertical-light.svg"
+      src="https://github.com/revanced/.github/raw/main/profile/assets/revanced-headline/revanced-headline-vertical-light.svg"
     >
   </picture>
   <br>
   <a href="https://revanced.app/">
-       <img height="24px" src="assets/revanced-logo/revanced-logo-round.svg" />
+       <img height="24px" src="https://github.com/revanced/.github/raw/main/profile/assets/revanced-logo/revanced-logo-round.svg" />
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/revanced">
        <picture>
