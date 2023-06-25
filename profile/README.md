@@ -39,7 +39,7 @@
    Continuing the legacy of Vanced
 </p>
 
-## ❤️ Contributors
+## ❤️ Contributions
 
 [revanced-patcher]: https://contrib.rocks/image?repo=revanced/revanced-patcher&max=12
 [revanced-patches]: https://contrib.rocks/image?repo=revanced/revanced-patches&max=12
