@@ -83,10 +83,10 @@
     src="https://img.shields.io/badge/github%20sponsors-30363D?style=for-the-badge&logo=GitHub-Sponsors"
   />
 </a>
-<a href="https://liberapay.com/ReVanced/donate">
+<a href="https://opencollective.com/ReVanced">
   <img
     height="32px"
-    alt="Donate using Liberapay"
-    src="https://liberapay.com/assets/widgets/donate.svg"
+    alt="Donate using Open Collective"
+    src="https://img.shields.io/badge/open%20collective-30363D?style=for-the-badge&logo=Open-Collective"
   />
 </a>
