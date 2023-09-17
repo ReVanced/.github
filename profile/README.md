@@ -29,7 +29,7 @@
        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://twitter.com/revancedapp">
-       <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png" />
+       <img height="24px" src="https://github.com/ReVanced/.github/assets/93124920/bac889e8-988d-42f2-a70e-bc24580eb2b1" />
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.youtube.com/channel/UCLktAUh5Gza9zAJBStwxNdw">
        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
