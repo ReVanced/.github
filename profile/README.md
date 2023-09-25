@@ -28,9 +28,8 @@
    <a href="https://t.me/app_revanced">
        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png" />
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://twitter.com/revancedapp">
+   <a href="https://x.com/revancedapp">
        <picture>
-         <a href="https://x.com/revancedapp">
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
          <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
        <picture/>
