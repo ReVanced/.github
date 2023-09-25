@@ -30,6 +30,7 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://twitter.com/revancedapp">
        <picture>
+         <a href="https://x.com/revancedapp">
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
          <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
        <picture/>
