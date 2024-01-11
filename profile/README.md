@@ -3,18 +3,18 @@
     <source
       width="256px"
       media="(prefers-color-scheme: dark)"
-      srcset="assets/revanced-headline/revanced-headline-vertical-dark.svg"
-    >
+      srcset="https://raw.githubusercontent.com/ReVanced/.github/main/profile/assets/revanced-headline/revanced-headline-vertical-dark.svg"
+    />
     <img 
       width="256px"
-      src="assets/revanced-headline/revanced-headline-vertical-light.svg"
-    >
+      src="https://raw.githubusercontent.com/ReVanced/.github/main/profile/assets/revanced-headline/revanced-headline-vertical-light.svg"
+    />
   </picture>
   <br>
   <a href="https://revanced.app/">
      <picture>
-         <source height="24px" media="(prefers-color-scheme: dark)" srcset="assets/revanced-logo/revanced-logo-round.svg" />
-         <img height="24px" src="assets/revanced-logo/revanced-logo-round.svg" />
+         <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReVanced/.github/main/profile/assets/revanced-logo/revanced-logo-round.svg" />
+         <img height="24px" src="https://raw.githubusercontent.com/ReVanced/.github/main/profile/assets/revanced-logo/revanced-logo-round.svg" />
      </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/ReVanced">
