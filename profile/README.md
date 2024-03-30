@@ -66,7 +66,9 @@
 [revanced-integrations]: https://contrib.rocks/image?repo=revanced/revanced-integrations&max=12
 [revanced-manager]: https://contrib.rocks/image?repo=revanced/revanced-manager&max=12
 [revanced-website]: https://contrib.rocks/image?repo=revanced/revanced-website&max=12
+[revanced-GmsCore]: https://contrib.rocks/image?repo=revanced/gmscore&max=12
 [revanced-api]: https://contrib.rocks/image?repo=revanced/revanced-api&max=12
+
 
 |                                  ❤️ Project                                   | ❤ Contributors                                                                                    |
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
@@ -76,6 +78,7 @@
 | 🔩 [ReVanced Integrations](https://github.com/revanced/revanced-integrations) | [![revanced-integrations]](https://github.com/revanced/revanced-integrations/graphs/contributors) |
 | 💊 [ReVanced Manager](https://github.com/revanced/revanced-manager)           | [![revanced-manager]](https://github.com/revanced/revanced-manager/graphs/contributors)           |
 | 🌐 [ReVanced Website](https://github.com/revanced/revanced-website)           | [![revanced-website]](https://github.com/revanced/revanced-website/graphs/contributors)           |
+| ✨ [ReVanced GmsCore](https://github.com/revanced/GmsCore)                    | [![revanced-GmsCore]](https://github.com/revanced/GmsCore/graphs/contributors)                    |
 | 🚀 [ReVanced API](https://github.com/revanced/revanced-api)                   | [![revanced-api]](https://github.com/revanced/revanced-api/graphs/contributors)                   |
 
 ## ⭐ Friends
