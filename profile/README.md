@@ -78,21 +78,6 @@
 | 🌐 [ReVanced Website](https://github.com/revanced/revanced-website)           | [![revanced-website]](https://github.com/revanced/revanced-website/graphs/contributors)           |
 | 🚀 [ReVanced API](https://github.com/revanced/revanced-api)                   | [![revanced-api]](https://github.com/revanced/revanced-api/graphs/contributors)                   |
 
-## ⭐ Friends
-
-<a href="https://vuetube.app/referral.html?referral=revanced">
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/dark/VueTube.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="32px"
-      src="https://raw.githubusercontent.com/VueTubeApp/.github/main/readme_assets/light/VueTube.svg"
-      alt="VueTube icon"
-    />
-  </picture>
-</a>
-
 ## 🤝 Donations
 
 <a href="https://github.com/sponsors/ReVanced">
