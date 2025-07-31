@@ -69,10 +69,10 @@
 
 |                                  ❤️ Project                                   | ❤ Contributors                                                                                    |
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
-| 💻 [ReVanced CLI](https://github.com/revanced/revanced-cli)                   | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
-| 💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher)           | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors)           |
-| 🧩 [ReVanced Patches](https://github.com/revanced/revanced-patches)           | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
 | 💊 [ReVanced Manager](https://github.com/revanced/revanced-manager)           | [![revanced-manager]](https://github.com/revanced/revanced-manager/graphs/contributors)           |
+| 💻 [ReVanced CLI](https://github.com/revanced/revanced-cli)                   | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
+| 🧩 [ReVanced Patches](https://github.com/revanced/revanced-patches)           | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
+| 💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher)           | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors)           |
 | 🌐 [ReVanced Website](https://github.com/revanced/revanced-website)           | [![revanced-website]](https://github.com/revanced/revanced-website/graphs/contributors)           |
 | 🚀 [ReVanced API](https://github.com/revanced/revanced-api)                   | [![revanced-api]](https://github.com/revanced/revanced-api/graphs/contributors)                   |
 
@@ -90,5 +90,15 @@
     height="32px"
     alt="Donate using Open Collective"
     src="https://img.shields.io/badge/open%20collective-30363D?style=for-the-badge&logo=Open-Collective"
+  />
+</a>
+
+## ❤️ Supporters
+
+<a href="https://ads.fund/token/0xadf954bc6f509b3a32fb5e97ed4ba6c000e37155">
+  <img
+    height="64px"
+    alt="ADS Fund"
+    src="https://avatars.githubusercontent.com/u/202042116?s=200&v=4"
   />
 </a>
