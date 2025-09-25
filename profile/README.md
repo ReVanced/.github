@@ -97,4 +97,4 @@
 
 | ❤️ Supporter | 💁 Supporting with |
 | :----------: | :-----------------: |
-<img height="64px" alt="ADS Fund" src="https://avatars.githubusercontent.com/u/202042116?s=200&v=4" /> | <ul><li><a href="https://ads.fund/token/0xadf954bc6f509b3a32fb5e97ed4ba6c000e37155">ReVanced Manager token</a></li><li><a href="https://ads.fund/verify/0xadf325f255083a3f3d9a9d01ffb3db52a148d802">ReVanced Patches token</a></li></ul>
+<img height="64px" alt="ADS Fund" src="https://avatars.githubusercontent.com/u/202042116?s=200&v=4" /> | <ul><li><a href="https://ads.fund/token/0xadf954bc6f509b3a32fb5e97ed4ba6c000e37155">ReVanced Manager token</a></li><li><a href="https://ads.fund/token/0xadf325f255083a3f3d9a9d01ffb3db52a148d802">ReVanced Patches token</a></li></ul>
